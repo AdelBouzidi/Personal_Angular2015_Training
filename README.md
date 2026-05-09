@@ -1,27 +1,77 @@
-# Angularrouting
+# Angular Training Repository
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.5.
+Personal Angular training repository created in 2022 as part of a self-learning process based on a complete Angular course composed of 134 videos.
 
-## Development server
+The repository contains practical exercises, experiments and progressive implementations of Angular concepts throughout the training.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+---
 
-## Code scaffolding
+# Repository Organization
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Each branch represents the practice and implementation completed after following one or several videos from the course.
 
-## Build
+Examples of topics covered:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- components
+- data binding
+- directives
+- services
+- routing
+- forms
+- HTTP requests
+- observables
 
-## Running unit tests
+The `final_video` branch contains the final state of the training project.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+---
 
-## Running end-to-end tests
+# Training Course
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Angular course used for the training:
 
-## Further help
+🔗 https://youtu.be/wI18jE_LHME?si=dXuBUmr73h0QDnQz
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+---
+
+# Technologies Used
+
+- Angular
+- TypeScript
+- HTML
+- CSS
+- RxJS
+- Node.js
+
+---
+
+# Running the Project
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+ng serve
+```
+
+Open in browser:
+
+```text
+http://localhost:4200/
+```
+
+---
+
+# Angular Version
+
+This project was generated with Angular CLI version 15.1.5.
+
+---
+
+# Notes
+
+This repository was created for learning and practicing Angular development concepts.
